@@ -1,28 +1,28 @@
 <!-- Animated Bold Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Piumini+Tishani;Full-stack+Developer+%26+Tech+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Piumini+Tishani;Full-stack+Developer+%26+Tech+Enthusiast" alt="Typing SVG"/>
 </p>
 
 ---
 
-🎓 Undergraduate in **BSc. (Hons.) Information Technology** at University of Moratuwa  
-💻 Passionate & fast-learning **full-stack developer**  
-🔧 Experienced with **React, Next.js, Node.js, PHP, MySQL, MongoDB**  
-📚 Currently building **eBookNest – AI-Powered eBook Creation Platform**  
-🌱 Always exploring **new technologies**  
-📬 Reach me at: [piuminitishani@gmail.com](mailto:piuminitishani@gmail.com)  
-
-🎉 Fun Fact: I debug faster while holding a cup of tea I forgot to drink ☕  
+<p align="center" style="font-size:18px;">
+🎓 Undergraduate in <b>BSc. (Hons.) Information Technology</b> at University of Moratuwa <br>
+💻 Passionate & fast-learning <b>full-stack developer</b> <br>
+🔧 Experienced with <b>React, Next.js, Node.js, PHP, MySQL, MongoDB</b> <br>
+📚 Currently building <b>eBookNest – AI-Powered eBook Creation Platform</b> <br>
+🌱 Always exploring <b>new technologies</b> <br>
+📬 Reach me at: <a href="mailto:piuminitishani@gmail.com">piuminitishani@gmail.com</a> <br>
+🎉 Fun Fact: I debug faster while holding a cup of tea I forgot to drink ☕
+</p>  
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/yourusername/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:piuminitishani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/PiuminiTishani"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
+  <a href=https://www.linkedin.com/in/piumini-tishani-209b70269/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
+  <a href="https://www.instagram.com/piumini_03?igsh=MWs0OTNsZXAybnVwZA=="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/></a>
+  <a href="mailto:piuminitishani@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40"/></a>
 </p>
 
 ---
