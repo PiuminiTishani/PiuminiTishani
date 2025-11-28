@@ -11,7 +11,7 @@
 🔧 Experienced with <b>React, Next.js, Node.js, PHP, MySQL, MongoDB</b> <br>
 📚 Currently building <b>eBookNest – AI-Powered eBook Creation Platform</b> <br>
 🌱 Always exploring <b>new technologies</b> <br>
-📬 Reach me at: <a href="mailto:piuminitishani@gmail.com">piuminitishani@gmail.com</a> <br>
+📬 Reach me at: <a href="mailto:piuminitishani@gmail.com">piuminitishani@gmail.com</a> <br><br><br>
 🎉 Fun Fact: I debug faster while holding a cup of tea I forgot to drink ☕
 </p>  
 
@@ -21,8 +21,8 @@
 <p align="center">
   <a href="https://github.com/PiuminiTishani"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
   <a href=https://www.linkedin.com/in/piumini-tishani-209b70269/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
-  <a href="https://www.instagram.com/piumini_03?igsh=MWs0OTNsZXAybnVwZA=="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/></a>
-  <a href="mailto:piuminitishani@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40"/></a>
+  <a href="https://www.instagram.com/piumini_03?igsh=MWs0OTNsZXAybnVwZA=="><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/></a>
+  <a href="mailto:piuminitishani@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40"/></a>
 </p>
 
 ---
