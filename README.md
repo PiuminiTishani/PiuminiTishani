@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Piumini Tishani:
+# 👋 Hi there! I'm Piumini Tishani
  <br>🎓 An Undergraduate following BSc. (Hons.) In Information Technology at University of Moratuwa<br>💻 Passionate and Fast learning full-stack developer<br>🔧 Experienced in working with React, Next JS, Node JS, PHP, MySQL and MongoDB<br>📚 Currently working on  eBookNest - AI-Powered eBook Creation Platform<br>🌱 Always learning and exploring new technologies<br>📬 Reach me at: piuminitishani@gmail.com<br><br>🎉 Fun Fact: I debug faster when I'm holding a cup of tea I forgot to drink.
 
 
