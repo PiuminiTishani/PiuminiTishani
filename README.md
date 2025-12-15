@@ -19,7 +19,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://piuminitishani.vercel.app/"><img src="https://cdn.simpleicons.org/vercel/000000" width="40" alt="Portfolio"/></a>
+  <a href="https://piuminitishani.vercel.app/"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" alt="Portfolio"/></a>
   <a href="https://github.com/PiuminiTishani"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
   <a href="https://www.linkedin.com/in/piumini-tishani-209b70269/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
   <a href="https://www.instagram.com/piumini_03?igsh=MWs0OTNsZXAybnVwZA=="><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/></a>
